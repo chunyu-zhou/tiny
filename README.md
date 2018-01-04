@@ -45,4 +45,4 @@ http://localhost/path/to/tiny/public/
 
 ## 发现问题，怎么办？  
 
-如发现问题，或者任何问题，欢迎提交Issue到[这里](https://github.com/zcyso/tiny/issues)。
+如发现问题，或者任何问题，欢迎提交Issue到[这里](https://github.com/chunyu-zhou/tiny/issues)。
